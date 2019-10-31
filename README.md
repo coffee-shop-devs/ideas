@@ -1,2 +1,2 @@
-# ideas
+# Ideas
 A board for ideas
